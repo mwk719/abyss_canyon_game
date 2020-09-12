@@ -1,4 +1,5 @@
 # 深渊峡谷游戏
+[![Build Status](https://travis-ci.com/mwk719/abyss_canyon_game.svg?branch=master)](https://travis-ci.com/mwk719/abyss_canyon_game)
 
 #### 介绍
 很久前自己学习java时做的小游戏
